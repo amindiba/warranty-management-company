@@ -39,4 +39,4 @@ To check a warranty status, users simply need to enter the product's serial numb
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and contributions are welcome!
 
 ## License
-This plugin is licensed under the MIT License.
+This plugin is licensed under the GNU General Public License v3.0 (GPLv3).
